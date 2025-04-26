@@ -2,7 +2,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "你好呀",
+        "你好呀~",
         "远方的那位特别的小姐姐",
         "是优秀上进努力乐观又聪明的",
         "戴雨桐~",
@@ -41,9 +41,9 @@ var config = {
         play: "音乐",
         bannar_coming: "彩带",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        cake_fadein: "蛋糕",
+        light_candle: "蜡烛",
+        wish_message: "生日快乐！",
         story: "A MESSAGE FOR YOU",
     }
 };
