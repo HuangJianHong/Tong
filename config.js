@@ -7,7 +7,7 @@ var config = {
         "是优秀上进努力乐观又聪明的",
         "⭐️戴雨桐⭐️",
         "很庆幸在最美好的年华遇见最美的你",
-        "0503今天是你的生日啊！！！",
+        "今天(0503)是你的生日啊！！！",
         "非常非常非常诚挚的",
         "祝你生日快乐,",
         "很多很多的快乐....",
@@ -44,7 +44,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
-        wish_message: "你是最棒的，生日快乐！",
+        wish_message: "🎉雨桐小朋友，生日快乐🎉",
         story: "A MESSAGE FOR YOU",
     }
 };
